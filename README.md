@@ -1,6 +1,6 @@
-# clean_architecture_riverpod
+# Flutter Clean Architecture
 
-A new Flutter project.
+Flutter Clean Architecture using Riverpod State Managment
 
 ## Getting Started
 
